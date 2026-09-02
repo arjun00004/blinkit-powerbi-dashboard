@@ -193,9 +193,8 @@ blinkit-sales-analysis-powerbi
    ```bash
    (https://github.com/Arjun42500/blinkit-powerbi-dashboard)
    ```
-2. Open **`https://github.com/Arjun42500/blinkit-powerbi-dashboard/blob/main/blinkit_project.pbix
-`** in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (latest version recommended).
-3. If prompted, point the data source to **`https://github.com/Arjun42500/blinkit-powerbi-dashboard/blob/main/BlinkIT%20Grocery%20Data.csv`** in the repo folder.
+2. Open **`blinkit_project.pbix`** in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (latest version recommended).
+3. If prompted, point the data source to **`blinkit_Grocery_Data.csv`** in the repo folder.
 4. Use the filter panel on the left to explore sales by Outlet Location Type, Outlet Size, and Item Type.
 
 ---
