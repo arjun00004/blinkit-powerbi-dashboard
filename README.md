@@ -1,2 +1,2 @@
 # blinkit-powerbi-dashboard
-Power BI dashboard analyzing Blinkit's sales performance, outlet characteristics, customer ratings, and inventory distribution.
+Interactive Power BI dashboard analyzing Blinkit's sales, outlet performance, customer ratings, inventory distribution, and key business KPIs.
